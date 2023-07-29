@@ -1,0 +1,15 @@
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\bin\Debug\net7.0\Ask4.exe
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\bin\Debug\net7.0\Ask4.deps.json
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\bin\Debug\net7.0\Ask4.runtimeconfig.json
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\bin\Debug\net7.0\Ask4.dll
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\bin\Debug\net7.0\Ask4.pdb
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\obj\Debug\net7.0\Ask4.csproj.AssemblyReference.cache
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\obj\Debug\net7.0\Ask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\obj\Debug\net7.0\Ask4.AssemblyInfoInputs.cache
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\obj\Debug\net7.0\Ask4.AssemblyInfo.cs
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\obj\Debug\net7.0\Ask4.csproj.CoreCompileInputs.cache
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\obj\Debug\net7.0\Ask4.dll
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\obj\Debug\net7.0\refint\Ask4.dll
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\obj\Debug\net7.0\Ask4.pdb
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\obj\Debug\net7.0\Ask4.genruntimeconfig.cache
+C:\student\Ektoras\csharp\domh epiloghs\Ask4\Ask4\obj\Debug\net7.0\ref\Ask4.dll
