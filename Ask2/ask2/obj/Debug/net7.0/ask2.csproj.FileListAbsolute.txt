@@ -1,0 +1,15 @@
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\obj\Debug\net7.0\ask2.csproj.AssemblyReference.cache
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\obj\Debug\net7.0\ask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\obj\Debug\net7.0\ask2.AssemblyInfoInputs.cache
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\obj\Debug\net7.0\ask2.AssemblyInfo.cs
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\obj\Debug\net7.0\ask2.csproj.CoreCompileInputs.cache
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\bin\Debug\net7.0\ask2.exe
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\bin\Debug\net7.0\ask2.deps.json
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\bin\Debug\net7.0\ask2.runtimeconfig.json
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\bin\Debug\net7.0\ask2.dll
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\bin\Debug\net7.0\ask2.pdb
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\obj\Debug\net7.0\ask2.dll
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\obj\Debug\net7.0\refint\ask2.dll
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\obj\Debug\net7.0\ask2.pdb
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\obj\Debug\net7.0\ask2.genruntimeconfig.cache
+C:\student\Ektoras\csharp\domh epiloghs\ask2\ask2\obj\Debug\net7.0\ref\ask2.dll
